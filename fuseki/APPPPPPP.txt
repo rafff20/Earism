@@ -1,0 +1,1 @@
+java -Xmx3500M -jar fuseki-server.jar --update --config=config3.ttl
